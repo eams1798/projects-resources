@@ -1,1 +1,1 @@
-# projects-images
+# projects-resources
